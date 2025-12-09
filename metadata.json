@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of PlantCare AI",
+  "description": "Smart plant care companion with AI diagnostics, watering tracking, and environmental monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
